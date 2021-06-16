@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612907159857",
+    "project_id": "authtestnotifs",
+    "storage_bucket": "authtestnotifs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612907159857:android:8ca9d3f9459ad19f872010",
+        "android_client_info": {
+          "package_name": "com.flutterflow.authtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612907159857-vcnljh8n3cj33c85d0hg4rmkjm147b7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFjutwFKjCyb3iZNtjM49EKV1BYRkIds0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612907159857-vcnljh8n3cj33c85d0hg4rmkjm147b7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
